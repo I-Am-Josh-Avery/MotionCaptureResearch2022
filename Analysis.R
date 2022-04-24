@@ -1,6 +1,6 @@
 # 
 # Analysis Phase for Ergonomics Research
-# Josh Avery
+# Josh Avery & Kathryn Perry
 # Updated 4/23/2022
 #
 
